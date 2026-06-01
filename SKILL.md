@@ -5,7 +5,7 @@ description: Use when a GitHub user's notifications inbox is unmanageable (50+ t
 
 # GitHub Notifications Triage
 
-> **Brick status:** First pass, derived from one real cleanup (142 → 2 actionable on @evnchn's inbox, 2026-06-01). Heuristics are opinionated; rules of thumb, not laws. Refine on contact.
+> First pass derived from one real cleanup (142 → 2 actionable on @evnchn's inbox, 2026-06-01). Heuristics are opinionated; rules of thumb, not laws. Refine on contact.
 
 ## Core idea
 
